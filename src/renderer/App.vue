@@ -35,6 +35,6 @@
     text-align: center;
     color: #2c3e50;
     margin-top: 60px;
-    background: url("./assets/cat_tile.jpg");
+    /*background: url("../../static/cat_tile.jpg");*/
   }
 </style>
