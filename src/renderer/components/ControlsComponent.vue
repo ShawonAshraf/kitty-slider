@@ -2,7 +2,7 @@
 <div>
     <span>
     <button class="btn btn-success" :disabled='isStarted && !isPaused' @click="start">
-      Show me the cats!
+      Show me more cats!
     </button>
   </span>
 
