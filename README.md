@@ -8,6 +8,11 @@
 ## Why though?
 May be you're not a cat person. I see.
 
+## How it works
+Fetches a cat image from thecatapi every 10 seconds and replaces with the one currently displayed.
+By default the slide show will be in pause mode and only one image will get displayed until you click on
+the `Play!` button. 
+
 
 ## Platforms supported
 macOS, Windows, Linux
