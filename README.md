@@ -2,7 +2,7 @@
 
 > Plays a slideshow of cat images from Tumblr, runs on Vue and Electron.
 
-<img src="https://kslctq.bn.files.1drv.com/y4miar63YZ84urFGSBZ_4GW1wmU6HxLso-RlzZJSNJ4aEz_pTp_11Cq_iYS7TtbLGYbFg9lDW9JDTsXtmAxQp3xbOPZCExSZk28KakjFdNMAM1z4hx4vH-wSKmrlQxENFIHhjNSiSPH92PFG-JZdFtXxUQFi82L25uBMBraPhVsW6IJF_WsTsHAiKzrcF6vYYtM?width=1174&height=1044&cropmode=none"/>
+<img src="https://9q0aew.bn.files.1drv.com/y4m2H_eBobNATNUAlrhWnFOyvQQxG_AxM3QT8tXWR9Z3EetmPtGRknaqvEFhbmD4dlAH_q_onVekMr2TZAHq6-dVbrRUcH1Pc_IICB87ApI_SW7vf9hmCakM9-Rhlua4gkcIartpEqZ5ofFjn90nrHVuWsw2U8yD2HqaJ3FfPG77EZoUWJw6CH8U75GNV28pXT6?width=1174&height=1044&cropmode=none"/>
 
 
 ## Why though?
