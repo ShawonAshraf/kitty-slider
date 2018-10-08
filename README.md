@@ -2,6 +2,9 @@
 
 > Plays a slideshow of cat images from Tumblr, runs on Vue and Electron.
 
+<img src="https://ci.appveyor.com/api/projects/status/github/ShawonAshraf/kitty-slider?svg=true" alt="Project Badge" width="200">
+
+
 <img src="https://9q0aew.bn.files.1drv.com/y4m2H_eBobNATNUAlrhWnFOyvQQxG_AxM3QT8tXWR9Z3EetmPtGRknaqvEFhbmD4dlAH_q_onVekMr2TZAHq6-dVbrRUcH1Pc_IICB87ApI_SW7vf9hmCakM9-Rhlua4gkcIartpEqZ5ofFjn90nrHVuWsw2U8yD2HqaJ3FfPG77EZoUWJw6CH8U75GNV28pXT6?width=1174&height=1044&cropmode=none"/>
 
 
@@ -11,7 +14,7 @@ May be you're not a cat person. I see.
 ## How it works
 Fetches a cat image from thecatapi every 10 seconds and replaces with the one currently displayed.
 By default the slide show will be in pause mode and only one image will get displayed until you click on
-the `Play!` button. 
+the `Play!` button.
 
 
 ## Platforms supported
