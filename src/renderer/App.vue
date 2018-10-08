@@ -28,5 +28,13 @@
 </script>
 
 <style>
-  /* CSS */
+  #app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+    background: url("./assets/cat_tile.jpg");
+  }
 </style>

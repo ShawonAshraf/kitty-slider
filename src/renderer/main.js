@@ -1,5 +1,10 @@
 import Vue from 'vue';
 
+/* eslint-disable no-unused-vars */
+import $ from 'jquery';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
 import App from './App';
 import store from './store';
 
