@@ -2,7 +2,6 @@
 
 > Plays a slideshow of cat images from Tumblr, runs on Vue and Electron.
 
-[![Build Status](https://travis-ci.org/ShawonAshraf/kitty-slider.svg?branch=master)](https://travis-ci.org/ShawonAshraf/kitty-slider)
 <img src="https://ci.appveyor.com/api/projects/status/github/ShawonAshraf/kitty-slider?svg=true" alt="Project Badge" width="100">
 
 
