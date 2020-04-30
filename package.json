@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.1.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.4",
     "underscore": "^1.9.1",
     "vue": "^2.5.16",
